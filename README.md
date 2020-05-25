@@ -2,6 +2,8 @@
 
 This repository demonstrates how to use the extensive, but often not self-evident, functionality provided by [IDA SDK](https://www.hex-rays.com/products/ida/support/sdkdoc/index.html) in order to put together a plugin with Hex-Rays-like capabilities.
 
+Read the accompanying [article](https://engineering.avast.io/magic-probably-behind-hex-rays/) for more details.
+
 # Build and Installation
 
 This will build the plugin using the specified IDA SDK (7.3+), and install it into the specified IDA:
